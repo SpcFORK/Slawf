@@ -22,6 +22,8 @@ Multi-Layered UWF HVM Ontop Tacit Langauge.
   - [ ] Better Crypto.oak
     - [ ] Base* coding suite
     - [ ] Parity check suite
+  - [ ] Compression suite!
+  - [ ] Bitwise suite!
 
 - [ ] Transpile to Oak AST
   - [ ] Transpile to Oak
