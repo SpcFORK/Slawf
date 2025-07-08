@@ -28,13 +28,12 @@ Multi-Layered UWF HVM Ontop Tacit Langauge.
 
 - [ ] Transpilers
   - [ ] To Oakl!
+    - [ ] Must transpile to Oak AST
   - [ ] To F95!
   - [ ] To PHP!
   - [ ] To NIM?
   - [ ] Go?
 
-- [ ] Transpile to Oak AST
-  - [ ] Transpile to Oak
 - [ ] Broader evaluation setup
   - [ ] Standardized Binary forms
     - [ ] More than ELF?
