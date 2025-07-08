@@ -13,6 +13,9 @@ Multi-Layered UWF HVM Ontop Tacit Langauge.
     - [ ] VMs may interface eachother using Hypervisor instance
     - [ ] VMs may make instances of VMs
     - [ ] VMs may instance sub-visors
+      - [ ] Ring levels
+        - [ ] Flagged access & hidden addressed memory
+        - [ ] Privilage is managed top down, while allowing top levels to implement layer elevation and or emulation by acting for the lower ring
   - [ ] Threading where possible and or Fake Threading for environments unable
 
 - [ ] Upgraded version of Oakl setups
