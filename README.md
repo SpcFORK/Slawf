@@ -30,6 +30,9 @@ Multi-Layered UWF HVM Ontop Tacit Langauge.
     - [ ] Wavelets
     - [ ] GrDc
 
+- [ ] Compiler?
+  - [ ] WASM Compiler?
+
 - [ ] Transpilers
   - [ ] To Oakl!
     - [ ] Must transpile to Oak AST
