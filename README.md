@@ -25,6 +25,11 @@ Multi-Layered UWF HVM Ontop Tacit Langauge.
   - [ ] Compression suite!
   - [ ] Bitwise suite!
   - [ ] CVM tech...?
+  - [ ] Matrix Math tech
+    - [ ] FFT & FFI
+    - [ ] Wavelets
+
+- [ ] FFI
 
 - [ ] Transpilers
   - [ ] To Oakl!
