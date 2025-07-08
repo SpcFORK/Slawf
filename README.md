@@ -28,8 +28,7 @@ Multi-Layered UWF HVM Ontop Tacit Langauge.
   - [ ] Matrix Math tech
     - [ ] FFT & FFI
     - [ ] Wavelets
-
-- [ ] FFI
+    - [ ] GrDc
 
 - [ ] Transpilers
   - [ ] To Oakl!
