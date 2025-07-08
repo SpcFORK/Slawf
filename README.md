@@ -2,6 +2,12 @@
 Multi-Layered UWF HVM Ontop Tacit Langauge.
 
 # Goals
+- [ ] Registers, Stacks, Tables, History-Dictionaries
+- [ ] CowCstHeapMem Implementation
+  - [ ] 3hb head, (13hb - head) body -> 0x000  00000 00000
+  - [ ] 1hb head, (13hb - head) body -> 0x0  000000 000000
+  - [ ] 2hb head, (13hb - head) body -> 0x00  00000 000000
+
 - [ ] Hypervisor
   - [ ] VM suite
     - [ ] VMs may interface eachother using Hypervisor instance
