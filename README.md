@@ -28,6 +28,8 @@ Multi-Layered UWF HVM Ontop Tacit Langauge.
   - [ ] Better Crypto.oak
     - [ ] Base* coding suite
     - [ ] Parity check suite
+    - [ ] Encryption primitives
+      - [ ] For example:  XORENCY
   - [ ] Compression suite!
   - [ ] Bitwise suite!
   - [ ] CVM tech...?
