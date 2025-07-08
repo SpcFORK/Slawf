@@ -24,6 +24,13 @@ Multi-Layered UWF HVM Ontop Tacit Langauge.
     - [ ] Parity check suite
   - [ ] Compression suite!
   - [ ] Bitwise suite!
+  - [ ] CVM tech...?
+
+- [ ] Transpilers
+  - [ ] To Oakl!
+  - [ ] To F95!
+  - [ ] To PHP!
+  - [ ] To NIM?
 
 - [ ] Transpile to Oak AST
   - [ ] Transpile to Oak
