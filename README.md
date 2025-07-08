@@ -7,7 +7,7 @@ Multi-Layered UWF HVM Ontop Tacit Langauge.
     - [ ] VMs may interface eachother using Hypervisor instance
     - [ ] VMs may make instances of VMs
     - [ ] VMs may instance sub-visors
-  - [ ] Threading where possible and Fake Threading
+  - [ ] Threading where possible and or Fake Threading for environments unable
 
 - [ ] Upgraded version of Oakl setups
   - [ ] Either...
