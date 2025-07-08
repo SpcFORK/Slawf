@@ -31,7 +31,7 @@ Multi-Layered UWF HVM Ontop Tacit Langauge.
     - [ ] GrDc
 
 - [ ] Compiler?
-  - [ ] WASM Compiler?
+  - [ ] WASM Compiler?  (Refer to Odin Drunk Code session)
 
 - [ ] Transpilers
   - [ ] To Oakl!
