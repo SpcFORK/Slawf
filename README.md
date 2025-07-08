@@ -31,6 +31,7 @@ Multi-Layered UWF HVM Ontop Tacit Langauge.
   - [ ] To F95!
   - [ ] To PHP!
   - [ ] To NIM?
+  - [ ] Go?
 
 - [ ] Transpile to Oak AST
   - [ ] Transpile to Oak
